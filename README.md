@@ -1,5 +1,5 @@
 <h1>Barbearia Alura</h1>
-<p>Página desenvolvida no curso HTML5 e CSS3 parte crie uma página da Web.</p>
+<p>Página desenvolvida no curso HTML5 e CSS3: crie uma página da Web.</p>
 
 <p> Link: https://juniormartini.github.io/Barbearia-Alura/index.html</p>
 
