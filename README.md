@@ -1,7 +1,7 @@
-# Barbearia-Alura
-Páginas do website Barbearia Alura, desenvolvido totalmente em HTML5 e CSS
+<h1>Barbearia Alura</h1>
+<p>Página desenvolvida no curso HTML5 e CSS3 parte crie uma página da Web.</p>
 
-https://juniormartini.github.io/Barbearia-Alura/index.html
+<p> Link: https://juniormartini.github.io/Barbearia-Alura/index.html</p>
 
 <h2> Home </h2>
 
