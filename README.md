@@ -1,6 +1,8 @@
 # Barbearia-Alura
 Páginas do website Barbearia Alura, desenvolvido totalmente em HTML5 e CSS
 
+https://juniormartini.github.io/Barbearia-Alura/index.html
+
 <h2> Home </h2>
 
 ![_Users_junior_Documents_Programacao_Alura_Projetos_3%20-%20Barbearia%20Alura_index html](https://user-images.githubusercontent.com/116317572/204172261-e11f5ce8-4195-4ed0-b66a-2c65c316cf05.png)
